@@ -3,7 +3,6 @@ Feature: BehaveProEvaluation
   Initial description details for BehavePro Evaluation.
   Manually entered via the Requirements tab in Jira when linked to GitHub. Set Up with Github sample projects.
 
-  @MANUAL
   Scenario: BehaveProEvaluationWithGitHub
     Given BehavePro has been set up linked to GitHub to a sample project
     When I view the FFT team project tools
