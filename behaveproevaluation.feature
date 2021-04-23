@@ -1,6 +1,6 @@
 Feature: BehaveProEvaluation with GitHub
 
-  Initial description details for BehavePro Evaluation. Manually entered via the Requirements tab in Jira 
+  Initial description details for BehavePro Evaluation. Manually entered via the Requirements tab in Jira when linked to GitHub
 
   Scenario: Scenario Evaluation Set Up BehavePro
     Given BehavePro has been set up linked to GitHub to a sample project
